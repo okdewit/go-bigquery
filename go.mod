@@ -1,4 +1,4 @@
-module github.com/okdewit/go-biquery
+module github.com/okdewit/go-bigquery
 
 go 1.12
 
